@@ -1,4 +1,4 @@
-# gft-trainning
+ç# gft-trainning
 Course git in gft
 POTATOE its good
 POTATOE, its better
@@ -7,3 +7,4 @@ NUEVA PATATA
 NUEVO TOMATOE
 ADD commetn
 ADD comment 2 
+ADD c2
