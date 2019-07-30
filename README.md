@@ -13,4 +13,4 @@ pruebas ejercicio 7
 pruebas tag 
 prubeas tag 1.1
 puchero1
-
+puchero2 
